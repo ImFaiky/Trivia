@@ -1,24 +1,75 @@
 [
     {
-        "pregunta":"Quien es goku",
-        "respuesta":"respuesta",
-        "incorrecta1":"incorrecta",
-        "incorrecta2":"incorrecta",
-        "incorrecta3":"incorrecta"
+        "pregunta":"¿Quién es el protagonista de Dragon Ball?",
+        "respuesta":"Goku",
+        "incorrecta1":"Vegeta",
+        "incorrecta2":"Piccolo",
+        "incorrecta3":"Krillin"
     },
 
     {
-        "pregunta":"Quien es gohan",
-        "respuesta":"respuesta",
-        "incorrecta1":"incorrecta",
-        "incorrecta2":"incorrecta",
-        "incorrecta3":"incorrecta"
+        "pregunta":"¿Cómo se llama la técnica más famosa de Goku?",
+        "respuesta":"Kamehameha",
+        "incorrecta1":"GenkiDama",
+        "incorrecta2":"Final Flash",
+        "incorrecta3":"Destructo Disc"
     },
     {
-        "pregunta":"Quien es goten",
-        "respuesta":"respuesta",
-        "incorrecta1":"incorrecta",
-        "incorrecta2":"incorrecta",
-        "incorrecta3":"incorrecta"
+        "pregunta":"¿Qué es una esfera del dragón?",
+        "respuesta":"Una bola mágica que concede deseos cuando se reúnen las 7",
+        "incorrecta1":"Un artefacto que costruye planetas",
+        "incorrecta2":"Una pelota mágica",
+        "incorrecta3":"Herramienta que aumenta el poder Saiyajin"
+    },
+    {
+        "pregunta":"¿Quién es el villano principal de la saga de Freezer?",
+        "respuesta":"Freezer",
+        "incorrecta1":"Cell",
+        "incorrecta2":"Majin Buu",
+        "incorrecta3":"Raditz"
+    },
+
+    {
+        "pregunta":"¿Qué raza es Goku?",
+        "respuesta":"Saiyajin",
+        "incorrecta1":"Namekiano",
+        "incorrecta2":"Androide",
+        "incorrecta3":"Humano"
+    },
+    {
+        "pregunta":"¿Quién es el mejor amigo de Goku?",
+        "respuesta":"Krillin",
+        "incorrecta1":"Vegeta",
+        "incorrecta2":"Yamcha",
+        "incorrecta3":"Majin Buu"
+    },
+
+    {
+        "pregunta":"¿Cuál es el nombre del hijo de Goku?",
+        "respuesta":"Gohan",
+        "incorrecta1":"Trunks",
+        "incorrecta2":"Gottenks",
+        "incorrecta3":"Pan"
+    },
+    {
+        "pregunta":"¿Qué poder tiene Vegeta?",
+        "respuesta":"Big Bang Attack",
+        "incorrecta1":"Kamehameha",
+        "incorrecta2":"GenkiDama",
+        "incorrecta3":"Kaioken"
+    },
+    {
+        "pregunta":"¿Quién fue el primer enemigo de Goku?",
+        "respuesta":"Pilaf",
+        "incorrecta1":"Freezer",
+        "incorrecta2":"Cell",
+        "incorrecta3":"Majin Buu"
+    },
+    {
+        "pregunta":"¿Qué es el Super Saiyajin?",
+        "respuesta":"Una transformación poderosa de los Saiyajin",
+        "incorrecta1":"Una fusión",
+        "incorrecta2":"Poder de nameikianos",
+        "incorrecta3":"Entrenamiento especial de krillin"
     }
 ]

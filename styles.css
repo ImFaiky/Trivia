@@ -6,9 +6,27 @@
     height: 100vh;
 }
 
+.bg-image-shenlong{
+  background-image: url('images/dragon.png');
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+  height: 100vh;
+}
+
 
 .rounded-div {
     width: 420px; 
+    height: 180px; 
+    background-color: rgba(255, 255, 255, 0.659); 
+    border-radius: 20px; 
+    padding: 20px;
+    text-align: center;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+  }
+
+  .rounded-div-shen {
+    width: 440px; 
     height: 180px; 
     background-color: rgba(255, 255, 255, 0.659); 
     border-radius: 20px; 
@@ -227,8 +245,8 @@
     position: absolute;
     top: 0;
     left: 0;
-    width: 1000px;
-    height: 1000px;
+    width: 100%;
+    height: 100%;
     object-fit: cover; /* Ajusta el video para cubrir todo el área sin distorsionarlo */
     z-index: -1; /* Asegura que el video quede detrás del contenido */
 }

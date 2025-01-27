@@ -12,6 +12,9 @@ let btn_correspondiente = [
 const aufin = document.getElementById("aufin");
 aufin.pause();
 
+const au1 = document.getElementById("au");
+
+
 let contadorpreguntas = 0;
 const maxpregunta = 7;
 
@@ -65,8 +68,6 @@ function activarEsfera(){
 
 function mostrarModal(){
     const modal =  document.getElementById("modal-perdiste");
-    const au = document.getElementById("au");
-    au.pause();
     modal.classList.remove("hidden");
     modal.style.display = "flex";
 }
@@ -88,12 +89,17 @@ function oprimir_btn(i){
         }, 3000);
     }else{
         btn_correspondiente[i].style.background = "red";
-        aufin.play();
+        confAudio();
         setTimeout(() => {
             mostrarModal();
         }, 2000);
     }
     
+}
+
+function confAudio(){
+    au1.pause();
+    aufin.play();
 }
 
 function reiniciar(){
