@@ -1,0 +1,24 @@
+[
+    {
+        "pregunta":"Quien es goku",
+        "respuesta":"respuesta",
+        "incorrecta1":"incorrecta",
+        "incorrecta2":"incorrecta",
+        "incorrecta3":"incorrecta"
+    },
+
+    {
+        "pregunta":"Quien es gohan",
+        "respuesta":"respuesta",
+        "incorrecta1":"incorrecta",
+        "incorrecta2":"incorrecta",
+        "incorrecta3":"incorrecta"
+    },
+    {
+        "pregunta":"Quien es goten",
+        "respuesta":"respuesta",
+        "incorrecta1":"incorrecta",
+        "incorrecta2":"incorrecta",
+        "incorrecta3":"incorrecta"
+    }
+]
