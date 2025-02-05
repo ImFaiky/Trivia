@@ -1,75 +1,75 @@
 [
     {
-        "pregunta":"¿Quién es el protagonista de Dragon Ball?",
+        "pregunta":"En dragon ball gt, ¿qué deseo pide el gran emperador pilaf a sheng long?",
+        "respuesta":"¡Quiero que me hagas joven de nuevo!",
+        "incorrecta1":"Ser millonario...",
+        "incorrecta2":"Ser el rey del mundo",
+        "incorrecta3":"Derrotar a Goku"
+    },
+
+    {
+        "pregunta":"En dragon ball gt, ¿Cuál es la frase que Majin Boo le dice a Mr. Satan antes de fusionarse con Uub?",
+        "respuesta":"¡Satan te quiero mucho!",
+        "incorrecta1":"Adios...",
+        "incorrecta2":"Cuida a Pan",
+        "incorrecta3":"Ninguna de las anteriores"
+    },
+    {
+        "pregunta":"¿Cómo se llama el perro que adoptó Mr. Satan en la saga de Majin Boo?",
+        "respuesta":"Baa",
+        "incorrecta1":"Bii",
+        "incorrecta2":"Buu",
+        "incorrecta3":"Bee"
+    },
+    {
+        "pregunta":"¿Turles es parte de la familia de Goku?",
+        "respuesta":"No",
+        "incorrecta1":"Si",
+        "incorrecta2":"Talvez",
+        "incorrecta3":"GG"
+    },
+
+    {
+        "pregunta":"En la saga de Majin Buu, ¿Por qué Goku vuelve a la vida?",
+        "respuesta":"Por un supremo kaiosama",
+        "incorrecta1":"Revive por las esferas del dragón",
+        "incorrecta2":"No revive",
+        "incorrecta3":"No exite respuesta"
+    },
+    {
+        "pregunta":"¿Quien mató al abuelito de Goku?",
         "respuesta":"Goku",
-        "incorrecta1":"Vegeta",
-        "incorrecta2":"Piccolo",
-        "incorrecta3":"Krillin"
+        "incorrecta1":"Turles",
+        "incorrecta2":"Roshi",
+        "incorrecta3":"Videl"
     },
 
     {
-        "pregunta":"¿Cómo se llama la técnica más famosa de Goku?",
-        "respuesta":"Kamehameha",
-        "incorrecta1":"GenkiDama",
-        "incorrecta2":"Final Flash",
-        "incorrecta3":"Destructo Disc"
-    },
-    {
-        "pregunta":"¿Qué es una esfera del dragón?",
-        "respuesta":"Una bola mágica que concede deseos cuando se reúnen las 7",
-        "incorrecta1":"Un artefacto que costruye planetas",
-        "incorrecta2":"Una pelota mágica",
-        "incorrecta3":"Herramienta que aumenta el poder Saiyajin"
-    },
-    {
-        "pregunta":"¿Quién es el villano principal de la saga de Freezer?",
-        "respuesta":"Freezer",
-        "incorrecta1":"Cell",
-        "incorrecta2":"Majin Buu",
-        "incorrecta3":"Raditz"
-    },
-
-    {
-        "pregunta":"¿Qué raza es Goku?",
-        "respuesta":"Saiyajin",
-        "incorrecta1":"Namekiano",
-        "incorrecta2":"Androide",
-        "incorrecta3":"Humano"
-    },
-    {
-        "pregunta":"¿Quién es el mejor amigo de Goku?",
-        "respuesta":"Krillin",
-        "incorrecta1":"Vegeta",
-        "incorrecta2":"Yamcha",
-        "incorrecta3":"Majin Buu"
-    },
-
-    {
-        "pregunta":"¿Cuál es el nombre del hijo de Goku?",
-        "respuesta":"Gohan",
-        "incorrecta1":"Trunks",
-        "incorrecta2":"Gottenks",
-        "incorrecta3":"Pan"
-    },
-    {
-        "pregunta":"¿Qué poder tiene Vegeta?",
-        "respuesta":"Big Bang Attack",
-        "incorrecta1":"Kamehameha",
-        "incorrecta2":"GenkiDama",
-        "incorrecta3":"Kaioken"
-    },
-    {
-        "pregunta":"¿Quién fue el primer enemigo de Goku?",
-        "respuesta":"Pilaf",
+        "pregunta":"¿A qué villano Goku no le ha mordido?",
+        "respuesta":"Cell",
         "incorrecta1":"Freezer",
-        "incorrecta2":"Cell",
-        "incorrecta3":"Majin Buu"
+        "incorrecta2":"Majin Boo",
+        "incorrecta3":"Broly"
     },
     {
-        "pregunta":"¿Qué es el Super Saiyajin?",
-        "respuesta":"Una transformación poderosa de los Saiyajin",
-        "incorrecta1":"Una fusión",
-        "incorrecta2":"Poder de nameikianos",
-        "incorrecta3":"Entrenamiento especial de krillin"
+        "pregunta":"¿Por qué Vegeta decidió ser controlado bor babidi?",
+        "respuesta":"Recuperar su lado maligno",
+        "incorrecta1":"Superar a Goku",
+        "incorrecta2":"La emoción de la batalla",
+        "incorrecta3":"Todas las anteriores"
+    },
+    {
+        "pregunta":"¿Cómo se llama el actor de doblaje que le dio vida a la voz de Goku en latino?",
+        "respuesta":"Ruben Cuesta",
+        "incorrecta1":"Mario Castaeda",
+        "incorrecta2":"Mario Castañeda",
+        "incorrecta3":"Ninguno de los anteriores"
+    },
+    {
+        "pregunta":"En el último capítulo de dragon ball gt, ¿por qué goku se va con sheng long?",
+        "respuesta":"La respuesta es ambigua",
+        "incorrecta1":"Por desición propia",
+        "incorrecta2":"No existe respuesta",
+        "incorrecta3":"Para proteger al mundo"
     }
 ]
