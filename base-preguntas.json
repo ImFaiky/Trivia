@@ -16,10 +16,10 @@
     },
     {
         "pregunta":"¿Cómo se llama el perro que adoptó Mr. Satan en la saga de Majin Boo?",
-        "respuesta":"Baa",
+        "respuesta":"Bee",
         "incorrecta1":"Bii",
         "incorrecta2":"Buu",
-        "incorrecta3":"Bee"
+        "incorrecta3":"Baa"
     },
     {
         "pregunta":"¿Turles es parte de la familia de Goku?",
@@ -53,21 +53,21 @@
     },
     {
         "pregunta":"¿Por qué Vegeta decidió ser controlado bor babidi?",
-        "respuesta":"Recuperar su lado maligno",
+        "respuesta":"Todas las anteriores",
         "incorrecta1":"Superar a Goku",
         "incorrecta2":"La emoción de la batalla",
-        "incorrecta3":"Todas las anteriores"
+        "incorrecta3":"Recuperar su lado maligno"
     },
     {
         "pregunta":"¿Cómo se llama el actor de doblaje que le dio vida a la voz de Goku en latino?",
-        "respuesta":"Ruben Cuesta",
+        "respuesta":"Mario Castañeda",
         "incorrecta1":"Mario Castaeda",
-        "incorrecta2":"Mario Castañeda",
+        "incorrecta2":"Rubén Cuesta",
         "incorrecta3":"Ninguno de los anteriores"
     },
     {
         "pregunta":"En el último capítulo de dragon ball gt, ¿por qué goku se va con sheng long?",
-        "respuesta":"La respuesta es ambigua",
+        "respuesta":"Existen muchas teorias",
         "incorrecta1":"Por desición propia",
         "incorrecta2":"No existe respuesta",
         "incorrecta3":"Para proteger al mundo"
